@@ -6,4 +6,4 @@
 | 2053   | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/)                   | Easy       | 6 ms (92.04%)  | 44.39 MB (25.16%) | _Array, Hash Table, String, Counting_ |
 | 9      | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                           | Easy       | 4 ms (100.00%) | 43.84 MB (56.91%) | _Math_                                |
 | 13     | [Roman to Integer](https://leetcode.com/problems/roman-to-integer)                                                              | Easy       | 2 ms (100.00%) | 44.5 MB (79.1%)   | _Hash Table, Math, String_            |
-| 14     | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                   | Easy       | 1 ms (73.83%)  | 41.28 MB (73.74%) |
+| 14     | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                   | Easy       | 1 ms (73.83%)  | 41.28 MB (73.74%) | _String, Trie_                        |
