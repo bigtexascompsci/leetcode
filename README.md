@@ -10,3 +10,4 @@
 | 21     | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 | Easy       | 0ms (100.0%)   | 42.4 MB (55.12%)  | _Linked List, Recursion_                    |
 | 26     | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                       | Easy       | 1 ms (76.06%)  | 44.8 MB (39.28%)  | _Array, Two Pointers_                       |
 | 5      | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)                                    | Medium     | 14 ms (93.34%) | 42.1 MB (84.30%)  | _Two Pointers, String, Dynamic Programming_ |
+| 27     | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                 | Easy       | 0 ms (100.00%) | 41.63 MB (80.16%) | _Array, Two Pointers_                       |
